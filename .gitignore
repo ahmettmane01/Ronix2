@@ -1,0 +1,8 @@
+.env
+supabase/.env
+local.properties
+build/
+.gradle/
+*.apk
+*.jks
+.idea/
